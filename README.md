@@ -16,8 +16,8 @@ me. I aim to develop commercial projects that people will use for their own purp
 
 ### 📩 Contacts
 
-<div style="display: flex; align-items: center; gap: 10px;">
-<img src="./assets/telegram.png" width="60" height="60" alt="html">
+<div style="display: flex; align-items: start; gap: 10px;">
+<img src="./assets/telegram.png" width="30" height="30" alt="html">
 <a style="display: block;" href="https://t.me/vxdosick">https://t.me/vxdosick</a>   
 </div>
 
