@@ -23,10 +23,11 @@ me. I aim to develop commercial projects that people will use for their own purp
 
 ### 🛠️ Technologies
 
+<div style="display: flex; align-items: center; gap: 10px;">
 <img src="./assets/html.png" width="60" height="60" alt="html">
 <img src="./assets/css.png" width="55" height="61" alt="css">
 <img src="./assets/js.png" width="60" height="60" alt="js">
-<img src="./assets/git.png" width="60" height="60" alt="git">
+<img src="./assets/git.png" width="60" height="60" alt="git"></div>
 
 ### 📈 My statistics
 
