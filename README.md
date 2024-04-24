@@ -1,6 +1,8 @@
 # 👋 Hi, my name is Vadym
 
-<div style="width: 100%; display: flex; justify-content: center;"><img  src="./assets/logo.webp" width="260" alt="logo"></div>
+<p align="center">
+  <img width="260" src="./assets/logo.webp" alt="logo">
+</p>
 
 <h3 style="min-width: 110px;">😀 About Me</h3>
 
