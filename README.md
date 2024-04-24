@@ -22,7 +22,10 @@ me. I aim to develop commercial projects that people will use for their own purp
 
 ### 📩 Contacts
 
-<a style="display: flex; align-items: center; gap: 10px;" href="https://t.me/vxdosick"><img style="" src="./assets/telegram.png" width="30" height="30" alt="html"> https://t.me/vxdosick</a>
+<div align="center" style="display: flex; align-items: center; gap: 10px;">
+  <img width="30" height="30" src="./assets/telegram.png" alt="Telegram:">
+  <a href="https://t.me/vxdosick" target="_blank">https://t.me/vxdosick</a>
+</div>
 
 ### 🛠️ Technologies
 
