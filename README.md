@@ -22,7 +22,7 @@ me. I aim to develop commercial projects that people will use for their own purp
 
 <h3 style="margin-bottom: 50px; text-align: center;">📩 Contacts</h3>
 
-<div align="center" style=" align-items: center; margin-bottom: 80px; gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 80px; gap: 20px;">
 
 <a href="https://t.me/vxdosick"><img width="60px" src="./assets/telegram.png" alt="telegram"/></a>
 
@@ -30,10 +30,10 @@ me. I aim to develop commercial projects that people will use for their own purp
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-<div align="center" style="margin-bottom: 80px; justify-content: space-around; gap: 20px;">
-<img style="margin-right: 30px;" src="./assets/html.png" width="60" height="60" alt="html">
-<img style="margin-right: 30px;" src="./assets/css.png" width="55" height="61" alt="css">
-<img style="margin-right: 30px;" src="./assets/js.png" width="60" height="60" alt="js">
+<div align="center" style="display: flex; margin-bottom: 80px; justify-content: space-around; gap: 20px;">
+<img  src="./assets/html.png" width="60" height="60" alt="html">
+<img src="./assets/css.png" width="55" height="61" alt="css">
+<img  src="./assets/js.png" width="60" height="60" alt="js">
 <img src="./assets/git.png" width="60" height="60" alt="git"></div>
 
 <h3 style="text-align: center; margin-bottom: 50px;">📈 My statistics</h3>
