@@ -34,6 +34,9 @@ me. I aim to develop commercial projects that people will use for their own purp
 <img  src="./assets/html.png" width="60" height="60" alt="html">
 <img src="./assets/css.png" width="55" height="61" alt="css">
 <img  src="./assets/js.png" width="60" height="60" alt="js">
+<img  src="./assets/react.png" width="60" height="60" alt="react">
+<img  src="./assets/sass.png" width="60" height="60" alt="sass">
+<img  src="./assets/npm.png" width="60" height="60" alt="npm">
 <img src="./assets/git.png" width="60" height="60" alt="git"></div>
 
 <h3 style="text-align: center; margin-bottom: 50px;">📈 My statistics</h3>
