@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Vadym
 
 <p align="center">
-  <img width="260" src="./assets/logo.webp" alt="logo">
+  <img src="./assets/bg.webp" alt="logo">
 </p>
 
 <h3 style="min-width: 110px;">😀 About Me</h3>
