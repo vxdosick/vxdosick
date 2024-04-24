@@ -1,9 +1,7 @@
 # 👋 Hi, my name is Vadym
 
-<div style="display: flex; gap: 10px; align-items: center;">
-<img src="./assets/logo.webp" width="260" alt="logo">
+<div style="width: 100%; display: flex; justify-content: center;"><img  src="./assets/logo.webp" width="260" alt="logo"></div>
 
-<div>
 <h3 style="min-width: 110px;">😀 About Me</h3>
 
 <p style="font-size: 20px;">
@@ -19,8 +17,6 @@ on Node.js. I am ready to conquer
 programming with a team that supports
 me. I aim to develop commercial projects that people will use for their own purposes. Any evaluation of my projects is important to me. 💖
 </p>
-</div>
-</div>
 
 ### 📩 Contacts
 
