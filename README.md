@@ -1,7 +1,12 @@
 # 👋 Hi, my name is Vadym
 
-### 😀 About Me
+<div style="display: flex; gap: 10px; align-items: center;">
+<img src="./assets/logo.webp" width="260" alt="logo">
 
+<div>
+<h3 style="min-width: 110px;">😀 About Me</h3>
+
+<p style="font-size: 20px;">
 I've been doing programming for 2 years
 now. I like to learn and work on something
 new, but I am also good at doing routine
@@ -13,13 +18,13 @@ learning the backend part mainly based
 on Node.js. I am ready to conquer
 programming with a team that supports
 me. I aim to develop commercial projects that people will use for their own purposes. Any evaluation of my projects is important to me. 💖
+</p>
+</div>
+</div>
 
 ### 📩 Contacts
 
-<div style=" gap: 10px;">
-<img style="display: inline-block; float: left;" src="./assets/telegram.png" width="30" height="30" alt="html">
-<a style="display: inline-block;" href="https://t.me/vxdosick">https://t.me/vxdosick</a>   
-</div>
+<a style="display: flex; align-items: center; gap: 10px;" href="https://t.me/vxdosick"><img style="" src="./assets/telegram.png" width="30" height="30" alt="html"> https://t.me/vxdosick</a>
 
 ### 🛠️ Technologies
 
