@@ -20,25 +20,36 @@ programming with a team that supports
 me. I aim to develop commercial projects that people will use for their own purposes. Any evaluation of my projects is important to me. 💖
 </p>
 
-### 📩 Contacts
+<h3 style="margin-bottom: 50px; text-align: center;">📩 Contacts</h3>
 
-<div align="center" style="display: flex; align-items: center; gap: 10px;">
-  <img width="30" height="30" src="./assets/telegram.png" alt="Telegram:">
-  <a href="https://t.me/vxdosick" target="_blank">https://t.me/vxdosick</a>
+<div align="center" style=" align-items: center; margin-bottom: 80px; gap: 20px;">
+
+<a href="https://t.me/vxdosick"><img width="60px" src="./assets/telegram.png" alt="telegram"/></a>
+
 </div>
 
-### 🛠️ Technologies
+<h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-<img src="./assets/html.png" width="60" height="60" alt="html">
-<img src="./assets/css.png" width="55" height="61" alt="css">
-<img src="./assets/js.png" width="60" height="60" alt="js">
+<div align="center" style="margin-bottom: 80px; justify-content: space-around; gap: 20px;">
+<img style="margin-right: 30px;" src="./assets/html.png" width="60" height="60" alt="html">
+<img style="margin-right: 30px;" src="./assets/css.png" width="55" height="61" alt="css">
+<img style="margin-right: 30px;" src="./assets/js.png" width="60" height="60" alt="js">
 <img src="./assets/git.png" width="60" height="60" alt="git"></div>
 
-### 📈 My statistics
+<h3 style="text-align: center; margin-bottom: 50px;">📈 My statistics</h3>
+
+<div align="center">
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vxdosick&count_private=true&theme=tokyonight&showicons=true)
 
+</div>
+<div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=vxdosick&theme=tokyonight&hide_border=true&mode=weekly)
 
+</div>
+<div align="center">
+
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vxdosick&langs_count=5&theme=tokyonight)
+
+</div>
