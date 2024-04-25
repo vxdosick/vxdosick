@@ -36,6 +36,9 @@ me. I aim to develop commercial projects that people will use for their own purp
 <img  src="./assets/js.png" width="60" height="60" alt="js">
 <img  src="./assets/react.png" width="60" height="60" alt="react">
 <img  src="./assets/sass.png" width="60" height="60" alt="sass">
+<img  src="./assets/node.png" width="60" height="60" alt="node.js">
+<img  src="./assets/express.png" width="60" height="60" alt="express">
+<img  src="./assets/ejs.png" width="60" height="60" alt="ejs">
 <img  src="./assets/npm.png" width="60" height="60" alt="npm">
 <img src="./assets/git.png" width="60" height="60" alt="git"></div>
 
