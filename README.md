@@ -32,9 +32,10 @@ me. I aim to develop commercial projects that people will use for their own purp
 
 <div align="center" style="display: flex; margin-bottom: 80px; justify-content: space-around; gap: 20px;">
 <img  src="./assets/html.png" width="60" height="60" alt="html">
-<img src="./assets/css.png" width="55" height="61" alt="css">
+<img src="./assets/css.png" width="55" height="61" alt="css">   
 <img  src="./assets/js.png" width="60" height="60" alt="js">
 <img  src="./assets/react.png" width="60" height="60" alt="react">
+<img  src="./assets/react-native.png" width="60" height="60" alt="react-native">
 <img  src="./assets/sass.png" width="60" height="60" alt="sass">
 <img  src="./assets/node.png" width="60" height="60" alt="node.js">
 <img  src="./assets/express.png" width="60" height="60" alt="express">
