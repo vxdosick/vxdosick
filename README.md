@@ -10,7 +10,7 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 80px; gap: 20px;">
 
-<a href="https://t.me/vxdosick"><img width="60px" src="./assets/telegram.png" alt="telegram"/></a>
+<a href="https://t.me/vxdosick"><img width="60px" src="./assets/telegram.svg" alt="telegram"/></a>
 <a href="https://www.linkedin.com/in/vadym-foteniuk-423a53318/"><img width="60px" src="./assets/linkedin.png" alt="linkedin"/></a>
 
 </div>
