@@ -3,7 +3,7 @@
 <h3 style="min-width: 110px;">😀 About Me</h3>
 
 <p style="font-size: 20px;">
-I've been doing web-programming for 2 years now. I like to learn and work on something new, but I am also good at doing routine work that I enjoy. I objectively evaluate my knowledge and skills while showing all my skills and projects I have worked on. I aim to develop commercial projects that people will use for their own purposes. Any evaluation of my projects is important to me. I know a lot of technologies, I develop projects on MEVN, MERN, Next stack. I am eager to work and lead my team forward. 💖
+Hi, my main occupation is web development with artificial intelligence features. Recently I have managed to get 1 year of commercial experience. I create minimalistic and stylish web applications, especially successful ones I try to bring to startup level and monetise. In addition, I continue to learn and improve my skills in AI development in Python. I strive to grow in a team of professionals and participate in projects of various scales at the level of intern or junior specialist. 💖
 </p>
 
 <h3 style="margin-bottom: 50px; text-align: center;">📩 Contacts</h3>
@@ -22,12 +22,12 @@ I've been doing web-programming for 2 years now. I like to learn and work on som
 <img src="./assets/css.png" width="55" height="61" alt="css">   
 <img  src="./assets/js.png" width="60" height="60" alt="js">
 <img  src="./assets/ts.png" width="60" height="60" alt="ts">
-<img  src="./assets/vue.png" width="60" height="60" alt="vue">
+<!-- <img  src="./assets/vue.png" width="60" height="60" alt="vue"> -->
 <img  src="./assets/react.png" width="60" height="60" alt="react">
-<img  src="./assets/react-native.png" width="60" height="60" alt="react-native">
+<!-- <img  src="./assets/react-native.png" width="60" height="60" alt="react-native"> -->
 <img  src="./assets/sass.png" width="60" height="60" alt="sass">
 <img  src="./assets/tailwind.png" width="60" height="60" alt="tailwind">
-<img  src="./assets/bootstrap.png" width="60" height="60" alt="bootstrap">
+<!-- <img  src="./assets/bootstrap.png" width="60" height="60" alt="bootstrap"> -->
 <img  src="./assets/node.png" width="60" height="60" alt="node.js">
 <img  src="./assets/express.png" width="60" height="60" alt="express">
 <img  src="./assets/mdb.png" width="60" height="60" alt="mongodb">
