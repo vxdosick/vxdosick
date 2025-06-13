@@ -18,15 +18,6 @@ Hi, my main occupation is web development with artificial intelligence features.
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
 <div align="center" style="display: flex; margin-bottom: 80px; justify-content: space-around; gap: 20px;">
-  <li className="flex items-center gap-2">
-          <img
-            className="w-8 h-8"
-            src="/tech/html.svg"
-            alt="html"
-            loading="lazy"
-          />
-          <p>HTML</p>
-        </li>
 <img  src="./assets/html.png" width="60" height="60" alt="html">
 <img src="./assets/css.png" width="55" height="61" alt="css">   
 <img  src="./assets/js.png" width="60" height="60" alt="js">
