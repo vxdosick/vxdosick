@@ -18,22 +18,23 @@ Hi, my main occupation is web development with artificial intelligence features.
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
 <div align="center" style="display: flex; margin-bottom: 80px; justify-content: space-around; gap: 20px;">
-<img  src="./assets/html.png" width="60" height="60" alt="html">
-<img src="./assets/css.png" width="55" height="61" alt="css">   
-<img  src="./assets/js.png" width="60" height="60" alt="js">
-<img  src="./assets/ts.png" width="60" height="60" alt="ts">
+<img  src="./assets/html.svg" width="60" height="60" alt="html">
+<img src="./assets/css.svg" width="55" height="61" alt="css">   
+<img  src="./assets/js.svg" width="60" height="60" alt="js">
+<img  src="./assets/ts.svg" width="60" height="60" alt="ts">
 <!-- <img  src="./assets/vue.png" width="60" height="60" alt="vue"> -->
-<img  src="./assets/react.png" width="60" height="60" alt="react">
+<img  src="./assets/react.svg" width="60" height="60" alt="react">
+<img  src="./assets/next.svg" width="60" height="60" alt="react">
 <!-- <img  src="./assets/react-native.png" width="60" height="60" alt="react-native"> -->
-<img  src="./assets/sass.png" width="60" height="60" alt="sass">
-<img  src="./assets/tailwind.png" width="60" height="60" alt="tailwind">
+<img  src="./assets/scss.svg" width="60" height="60" alt="sass">
+<img  src="./assets/tailwind.svg" width="60" height="60" alt="tailwind">
 <!-- <img  src="./assets/bootstrap.png" width="60" height="60" alt="bootstrap"> -->
-<img  src="./assets/node.png" width="60" height="60" alt="node.js">
-<img  src="./assets/express.png" width="60" height="60" alt="express">
-<img  src="./assets/mdb.png" width="60" height="60" alt="mongodb">
-<img  src="./assets/ejs.png" width="60" height="60" alt="ejs">
-<img  src="./assets/npm.png" width="60" height="60" alt="npm">
-<img src="./assets/git.png" width="60" height="60" alt="git"></div>
+<img  src="./assets/node.svg" width="60" height="60" alt="node.js">
+<img  src="./assets/express.svg" width="60" height="60" alt="express">
+<img  src="./assets/mdb.svg" width="60" height="60" alt="mongodb">
+<!-- <img  src="./assets/ejs.png" width="60" height="60" alt="ejs"> -->
+<!-- <img  src="./assets/npm.png" width="60" height="60" alt="npm"> -->
+<img src="./assets/git.svg" width="60" height="60" alt="git"></div>
 
 <h3 style="text-align: center; margin-bottom: 50px;">📈 My statistics</h3>
 
