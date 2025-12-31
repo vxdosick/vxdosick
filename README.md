@@ -17,9 +17,14 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-| ![Python](./assets/python.svg =60x60) | ![FastAPI](./assets/fastapi.svg =60x60) | ![Google Colab](./assets/googlecolab.svg=60x60) | ![Open Router](./assets/openrouter.svg =60x60) | ![Stripe](./assets/stripe.svg =60x60) | ![Ngrok](./assets/ngrok.svg =60x60) | ![Google Drive](./assets/googledrive.svg =60x60) | ![Render](./assets/render.svg =60x60) | ![Git](./assets/git.svg =60x60) |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| Python | FastAPI | Google Colab | Open Router | Stripe | Ngrok | Google Drive | Render | Git |
+| ![Python](./assets/python.svg) | ![FastAPI](./assets/fastapi.svg) | ![Google Colab](./assets/googlecolab.svg) | ![Open Router](./assets/openrouter.svg) | ![Stripe](./assets/stripe.svg) |
+|:----:|:----:|:----:|:----:|:----:|
+| Python | FastAPI | Google Colab | Open Router | Stripe |
+
+| ![Ngrok](./assets/ngrok.svg) | ![Google Drive](./assets/googledrive.svg) | ![Render](./assets/render.svg) | ![Git](./assets/git.svg) |
+|:----:|:----:|:----:|:----:|
+| Ngrok | Google Drive | Render | Git |
+
 
 
 
