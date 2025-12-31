@@ -8,12 +8,9 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <h3 style="margin-bottom: 50px; text-align: center;">📩 Contacts</h3>
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 80px; gap: 20px;">
-
-<a href="https://t.me/vxdosick"><img width="60px" src="./assets/telegram.svg" alt="telegram"/></a>
-<a href="https://www.linkedin.com/in/vadym-foteniuk-423a53318/"><img width="60px" src="./assets/linkedin.png" alt="linkedin"/></a>
-
-</div>
+| [![Telegram](./assets/telegram.svg)](https://t.me/vxdosick) | [![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/vadym-foteniuk-423a53318/) |
+|:----:|:----:|
+| Telegram--- | LinkedIn-- |
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
