@@ -17,68 +17,48 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-<div style="font-size: 0; margin-bottom: 80px; text-align: center;">
-  <!-- Python -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/python.svg" width="60" height="60" alt="Python">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Python</p>
-    </div>
-  </div>
-  <!-- FastAPI -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/fastapi.svg" width="60" height="60" alt="FastAPI">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">FastAPI</p>
-    </div>
-  </div>
-  <!-- Google Colab -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/googlecolab.svg" width="60" height="60" alt="Google Colab">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Google Colab</p>
-    </div>
-  </div>
-  <!-- Open Router -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/openrouter.svg" width="60" height="60" alt="Open Router">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Open Router</p>
-    </div>
-  </div>
-  <!-- Stripe -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/stripe.svg" width="60" height="60" alt="Stripe">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Stripe</p>
-    </div>
-  </div>
-  <!-- Ngrok -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/ngrok.svg" width="60" height="60" alt="Ngrok">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Ngrok</p>
-    </div>
-  </div>
-  <!-- Google Drive -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/googledrive.svg" width="60" height="60" alt="Google Drive">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Google Drive</p>
-    </div>
-  </div>
-  <!-- Render -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-right: 20px; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/render.svg" width="60" height="60" alt="Render">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Render</p>
-    </div>
-  </div>
-  <!-- Git -->
-  <div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-    <div style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./assets/git.svg" width="60" height="60" alt="Git">
-      <p style="margin: 12px 0 0 0; font-weight: 500;">Git</p>
-    </div>
-  </div>
+<div style="margin-bottom: 80px; overflow-x: auto;">
+  <table style="border-collapse: separate; border-spacing: 20px 20px; margin: 0 auto;">
+    <tr>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/python.svg" width="60" height="60" alt="Python"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Python</p>
+      </td>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/fastapi.svg" width="60" height="60" alt="FastAPI"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">FastAPI</p>
+      </td>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/googlecolab.svg" width="60" height="60" alt="Google Colab"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Google Colab</p>
+      </td>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/openrouter.svg" width="60" height="60" alt="Open Router"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Open Router</p>
+      </td>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/stripe.svg" width="60" height="60" alt="Stripe"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Stripe</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/ngrok.svg" width="60" height="60" alt="Ngrok"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Ngrok</p>
+      </td>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/googledrive.svg" width="60" height="60" alt="Google Drive"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Google Drive</p>
+      </td>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/render.svg" width="60" height="60" alt="Render"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Render</p>
+      </td>
+      <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
+        <img src="./assets/git.svg" width="60" height="60" alt="Git"><br>
+        <p style="margin: 12px 0 0 0; font-weight: 500;">Git</p>
+      </td>
+      <td style="width: 200px;"></td> <!-- пустая ячейка, если нужно выровнять -->
+    </tr>
+  </table>
 </div>
