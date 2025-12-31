@@ -10,7 +10,7 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 | [![Telegram](./assets/telegram.svg)](https://t.me/vxdosick) | [![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/vadym-foteniuk-423a53318/) |
 |:----:|:----:|
-| Telegram--- | LinkedIn-- |
+| Telegram | LinkedIn |
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
