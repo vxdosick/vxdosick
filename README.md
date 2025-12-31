@@ -18,7 +18,7 @@ Hi, my main occupation is web development with artificial intelligence features.
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
 <div style="margin-bottom: 80px; overflow-x: auto; width: 100%;">
-  <table style="border-collapse: separate; border-spacing: 20px; width: 100%; table-layout: fixed; border: none;">
+  <table style="border-collapse: separate; border-spacing: 20px; width: 100%; table-layout: fixed; border: 0;">
     <tr>
       <td style="background: #4CAF50; color: white; text-align: center; vertical-align: top; border-radius: 12px; overflow: hidden; padding: 20px 10px;">
         <img src="./assets/python.svg" width="60" height="60" alt="Python">
@@ -48,6 +48,8 @@ Hi, my main occupation is web development with artificial intelligence features.
         <img src="./assets/googledrive.svg" width="60" height="60" alt="Google Drive">
         <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word; max-width: 180px;">Google Drive</p>
       </td>
+      </tr>
+      <tr>
       <td style="background: #4CAF50; color: white; text-align: center; vertical-align: top; border-radius: 12px; overflow: hidden; padding: 20px 10px;">
         <img src="./assets/render.svg" width="60" height="60" alt="Render">
         <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word; max-width: 180px;">Render</p>
@@ -56,6 +58,6 @@ Hi, my main occupation is web development with artificial intelligence features.
         <img src="./assets/git.svg" width="60" height="60" alt="Git">
         <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word; max-width: 180px;">Git</p>
       </td>
-    </tr>
+      </tr>
   </table>
 </div>
