@@ -17,40 +17,40 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-<div style="display: flex; flex-ditection: row; margin-bottom: 80px; gap: 20px;">
-<div>
+<div style="font-size: 0; margin-bottom: 80px;">
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/python.svg" width="60" height="60" alt="python">
     <p>Python</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/fastapi.svg" width="60" height="60" alt="fastapi">
     <p>FastAPI</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/googlecolab.svg" width="60" height="60" alt="gc">
     <p>Google Colab</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/openrouter.svg" width="60" height="60" alt="or">
     <p>Open Router</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/stripe.svg" width="60" height="60" alt="stripe">
     <p>Stripe</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/ngrok.svg" width="60" height="60" alt="ngrok">
     <p>Ngrok</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/googledrive.svg" width="60" height="60" alt="gd">
     <p>Google Drive</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/render.svg" width="60" height="60" alt="render">
     <p>Render</p>
 </div>
-<div>
+<div style="display: inline-block; font-size: 16px; vertical-align: top; width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; line-height: 150px; margin-right: 20px;">
     <img src="./assets/git.svg" width="60" height="60" alt="git">
     <p>Git</p>
 </div>
