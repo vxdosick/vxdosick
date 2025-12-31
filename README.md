@@ -18,47 +18,65 @@ Hi, my main occupation is web development with artificial intelligence features.
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
 <div style="margin-bottom: 80px; overflow-x: auto;">
-  <table style="border-collapse: separate; border-spacing: 20px 20px; margin: 0 auto;">
+  <table style="border-collapse: separate; border-spacing: 20px 20px; width: 100%; table-layout: fixed;">
     <tr>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/python.svg" width="60" height="60" alt="Python"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Python</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/python.svg" width="60" height="60" alt="Python"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Python</p>
+        </div>
       </td>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/fastapi.svg" width="60" height="60" alt="FastAPI"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">FastAPI</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/fastapi.svg" width="60" height="60" alt="FastAPI"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">FastAPI</p>
+        </div>
       </td>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/googlecolab.svg" width="60" height="60" alt="Google Colab"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Google Colab</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/googlecolab.svg" width="60" height="60" alt="Google Colab"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Google Colab</p>
+        </div>
       </td>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/openrouter.svg" width="60" height="60" alt="Open Router"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Open Router</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/openrouter.svg" width="60" height="60" alt="Open Router"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Open Router</p>
+        </div>
       </td>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/stripe.svg" width="60" height="60" alt="Stripe"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Stripe</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/stripe.svg" width="60" height="60" alt="Stripe"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Stripe</p>
+        </div>
       </td>
     </tr>
     <tr>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/ngrok.svg" width="60" height="60" alt="Ngrok"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Ngrok</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/ngrok.svg" width="60" height="60" alt="Ngrok"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Ngrok</p>
+        </div>
       </td>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/googledrive.svg" width="60" height="60" alt="Google Drive"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Google Drive</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/googledrive.svg" width="60" height="60" alt="Google Drive"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Google Drive</p>
+        </div>
       </td>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/render.svg" width="60" height="60" alt="Render"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Render</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/render.svg" width="60" height="60" alt="Render"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Render</p>
+        </div>
       </td>
       <td style="width: 200px; height: 150px; background: #4CAF50; color: white; text-align: center; vertical-align: middle; border-radius: 12px; overflow: hidden;">
-        <img src="./assets/git.svg" width="60" height="60" alt="Git"><br>
-        <p style="margin: 12px 0 0 0; font-weight: 500;">Git</p>
+        <div style="display: inline-block; text-align: center;">
+          <img src="./assets/git.svg" width="60" height="60" alt="Git"><br>
+          <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word;">Git</p>
+        </div>
       </td>
-      <td style="width: 200px;"></td> <!-- пустая ячейка, если нужно выровнять -->
+      <td style="width: 200px; height: 150px;"></td>
     </tr>
   </table>
 </div>
