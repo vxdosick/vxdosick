@@ -22,12 +22,36 @@ Hi, my main occupation is web development with artificial intelligence features.
     <img src="./assets/python.svg" width="60" height="60" alt="python">
     <p>Python</p>
 </div>
-<img src="./assets/fastapi.svg" width="60" height="60" alt="fastapi">
-<img src="./assets/googlecolab.svg" width="60" height="60" alt="gc">
-<img src="./assets/openrouter.svg" width="60" height="60" alt="or">
-<img src="./assets/stripe.svg" width="60" height="60" alt="stripe">
-<img src="./assets/ngrok.svg" width="60" height="60" alt="ngrok">
-<img src="./assets/googledrive.svg" width="60" height="60" alt="gd">
-<img src="./assets/render.svg" width="60" height="60" alt="render">
-<img src="./assets/git.svg" width="60" height="60" alt="git">
+<div>
+    <img src="./assets/fastapi.svg" width="60" height="60" alt="fastapi">
+    <p>FastAPI</p>
+</div>
+<div>
+    <img src="./assets/googlecolab.svg" width="60" height="60" alt="gc">
+    <p>Google Colab</p>
+</div>
+<div>
+    <img src="./assets/openrouter.svg" width="60" height="60" alt="or">
+    <p>Open Router</p>
+</div>
+<div>
+    <img src="./assets/stripe.svg" width="60" height="60" alt="stripe">
+    <p>Stripe</p>
+</div>
+<div>
+    <img src="./assets/ngrok.svg" width="60" height="60" alt="ngrok">
+    <p>Ngrok</p>
+</div>
+<div>
+    <img src="./assets/googledrive.svg" width="60" height="60" alt="gd">
+    <p>Google Drive</p>
+</div>
+<div>
+    <img src="./assets/render.svg" width="60" height="60" alt="render">
+    <p>Render</p>
+</div>
+<div>
+    <img src="./assets/git.svg" width="60" height="60" alt="git">
+    <p>Git</p>
+</div>
 </div>
