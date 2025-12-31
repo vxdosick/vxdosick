@@ -19,11 +19,12 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 | ![Python](./assets/python.svg) | ![FastAPI](./assets/fastapi.svg) | ![Google Colab](./assets/googlecolab.svg) | ![Open Router](./assets/openrouter.svg) | ![Stripe](./assets/stripe.svg) |
 |:----:|:----:|:----:|:----:|:----:|
-| Python | FastAPI | Google Colab | Open Router | Stripe |
+| Python&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; | FastAPI&#8203;&#8203;&#8203;&#8203;&#8203; | Google Colab | Open Router&#8203; | Stripe&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; |
 
 | ![Ngrok](./assets/ngrok.svg) | ![Google Drive](./assets/googledrive.svg) | ![Render](./assets/render.svg) | ![Git](./assets/git.svg) |
 |:----:|:----:|:----:|:----:|
-| Ngrok | Google Drive | Render | Git     |
+| Ngrok&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; | Google Drive | Render&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; | Git&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; |
+
 
 
 
