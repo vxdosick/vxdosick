@@ -22,7 +22,7 @@ Hi, my main occupation is web development with artificial intelligence features.
 | Python | FastAPI | Google Colab | Open Router | Stripe |
 
 | ![Ngrok](./assets/ngrok.svg) | ![Google Drive](./assets/googledrive.svg) | ![Render](./assets/render.svg) | ![Git](./assets/git.svg) |
-|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:---------:|
 | Ngrok | Google Drive | Render | Git |
 
 
