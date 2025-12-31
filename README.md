@@ -3,7 +3,7 @@
 <h3 style="min-width: 110px;">😀 About Me</h3>
 
 <p style="font-size: 20px;">
-Hi, my main occupation is web development with artificial intelligence features. Recently I have managed to get 1 year of commercial experience. I create minimalistic and stylish web applications, especially successful ones I try to bring to startup level and monetise. In addition, I continue to learn and improve my skills in AI development in Python. I strive to grow in a team of professionals and participate in projects of various scales at the level of intern or junior specialist. 💖
+I'm a Python developer specializing in Telegram bots and backend development. I create minimalistic, stylish web apps and know how to grow them into full-fledged startups with monetization. I also have experience in AI/ML and skillfully integrate intelligent features into various services. 🖤
 </p>
 
 <h3 style="margin-bottom: 50px; text-align: center;">📩 Contacts</h3>
