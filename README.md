@@ -17,21 +17,10 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-<p float="left">
-  <figure style="display:inline-block; text-align:center; margin: 0 20px;">
-    <img src="./assets/python.svg" width="60" height="60" alt="Python">
-    <figcaption>Python</figcaption>
-  </figure>
+| Python | FastAPI | Google Colab | Open Router | Stripe | Ngrok | Google Drive | Render | Git |
+|--------|---------|--------------|-------------|--------|-------|--------------|--------|-----|
+| ![Python](./assets/python.svg) <br> Python | ![FastAPI](./assets/fastapi.svg) <br> FastAPI | ![Google Colab](./assets/googlecolab.svg) <br> Google Colab | ![Open Router](./assets/openrouter.svg) <br> Open Router | ![Stripe](./assets/stripe.svg) <br> Stripe | ![Ngrok](./assets/ngrok.svg) <br> Ngrok | ![Google Drive](./assets/googledrive.svg) <br> Google Drive | ![Render](./assets/render.svg) <br> Render | ![Git](./assets/git.svg) <br> Git |
 
-  <figure style="display:inline-block; text-align:center; margin: 0 20px;">
-    <img src="./assets/fastapi.svg" width="60" height="60" alt="FastAPI">
-    <figcaption>FastAPI</figcaption>
-  </figure>
 
-  <figure style="display:inline-block; text-align:center; margin: 0 20px;">
-    <img src="./assets/googlecolab.svg" width="60" height="60" alt="Google Colab">
-    <figcaption>Google Colab</figcaption>
-  </figure>
-</p>
 
 
