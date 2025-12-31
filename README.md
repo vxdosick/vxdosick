@@ -17,49 +17,15 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; align-items: center; margin-bottom: 40px;">
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/python.svg" width="60" height="60" alt="Python">
-    <span style="margin-top: 8px; font-weight: 500;">Python</span>
-  </div>
-  
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/fastapi.svg" width="60" height="60" alt="FastAPI">
-    <span style="margin-top: 8px; font-weight: 500;">FastAPI</span>
-  </div>
+<p align="left">
+  <img src="./assets/python.svg" width="60" height="60" alt="Python">
+  <img src="./assets/fastapi.svg" width="60" height="60" alt="FastAPI">
+  <img src="./assets/googlecolab.svg" width="60" height="60" alt="Google Colab">
+  <img src="./assets/openrouter.svg" width="60" height="60" alt="Open Router">
+  <img src="./assets/stripe.svg" width="60" height="60" alt="Stripe">
+  <img src="./assets/ngrok.svg" width="60" height="60" alt="Ngrok">
+  <img src="./assets/googledrive.svg" width="60" height="60" alt="Google Drive">
+  <img src="./assets/render.svg" width="60" height="60" alt="Render">
+  <img src="./assets/git.svg" width="60" height="60" alt="Git">
+</p>
 
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/googlecolab.svg" width="60" height="60" alt="Google Colab">
-    <span style="margin-top: 8px; font-weight: 500;">Google Colab</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/openrouter.svg" width="60" height="60" alt="Open Router">
-    <span style="margin-top: 8px; font-weight: 500;">Open Router</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/stripe.svg" width="60" height="60" alt="Stripe">
-    <span style="margin-top: 8px; font-weight: 500;">Stripe</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/ngrok.svg" width="60" height="60" alt="Ngrok">
-    <span style="margin-top: 8px; font-weight: 500;">Ngrok</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/googledrive.svg" width="60" height="60" alt="Google Drive">
-    <span style="margin-top: 8px; font-weight: 500;">Google Drive</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/render.svg" width="60" height="60" alt="Render">
-    <span style="margin-top: 8px; font-weight: 500;">Render</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./assets/git.svg" width="60" height="60" alt="Git">
-    <span style="margin-top: 8px; font-weight: 500;">Git</span>
-  </div>
-</div>
