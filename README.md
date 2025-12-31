@@ -18,13 +18,16 @@ Hi, my main occupation is web development with artificial intelligence features.
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
 <div align="center" style="display: flex; margin-bottom: 80px; justify-content: space-around; gap: 20px;">
-<img src="./assets/python.svg" width="60" height="60" alt="gc">
-<img src="./assets/fastapi.svg" width="60" height="60" alt="gc">
+<div>
+    <img src="./assets/python.svg" width="60" height="60" alt="python">
+    <p>Python</p>
+</div>
+<img src="./assets/fastapi.svg" width="60" height="60" alt="fastapi">
 <img src="./assets/googlecolab.svg" width="60" height="60" alt="gc">
-<img src="./assets/openrouter.svg" width="60" height="60" alt="gc">
-<img src="./assets/stripe.svg" width="60" height="60" alt="gc">
-<img src="./assets/ngrok.svg" width="60" height="60" alt="gc">
-<img src="./assets/googledrive.svg" width="60" height="60" alt="gc">
-<img src="./assets/render.svg" width="60" height="60" alt="gc">
+<img src="./assets/openrouter.svg" width="60" height="60" alt="or">
+<img src="./assets/stripe.svg" width="60" height="60" alt="stripe">
+<img src="./assets/ngrok.svg" width="60" height="60" alt="ngrok">
+<img src="./assets/googledrive.svg" width="60" height="60" alt="gd">
+<img src="./assets/render.svg" width="60" height="60" alt="render">
 <img src="./assets/git.svg" width="60" height="60" alt="git">
 </div>
