@@ -17,7 +17,7 @@ Hi, my main occupation is web development with artificial intelligence features.
 
 <h3 style="text-align: center; margin-bottom: 50px;">🛠️ Technologies</h3>
 
-<div align="center" style="display: flex; margin-bottom: 80px; justify-content: space-around; gap: 20px;">
+<div style="display: flex; flex-ditection: row; margin-bottom: 80px; gap: 20px;">
 <div>
     <img src="./assets/python.svg" width="60" height="60" alt="python">
     <p>Python</p>
