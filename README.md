@@ -56,7 +56,7 @@ Hi, my main occupation is web development with artificial intelligence features.
       </td>
       <td style="background: #4CAF50; color: white; text-align: center; vertical-align: top; border-radius: 12px; overflow: hidden; padding: 20px 10px;">
         <img src="./assets/git.svg" width="60" height="60" alt="Git">
-        <p style="margin: 12px 0 0 0; font-weight: 500; word-wrap: break-word; max-width: 180px;">Git</p>
+        <p style="margin: 0 auto; font-weight: 500; word-wrap: break-word; max-width: 180px;">Git</p>
       </td>
       </tr>
   </table>
